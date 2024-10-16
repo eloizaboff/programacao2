@@ -1,5 +1,5 @@
 body {
- background-color: bisque;
+ background-color: #b183fc;
 }
 footer {
     background-color: black
@@ -7,13 +7,13 @@ footer {
     }
     
     footer {
-    background-color: black;
+    background-color: #b183fc
     color: white;
     bottom: 0;
     ｝
     
     footer {
-    background-color: black;
+    background-color: #b183fc;
     color: white;
     position: fixed;
     bottom: 0; 
