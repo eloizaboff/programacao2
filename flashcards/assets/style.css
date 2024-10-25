@@ -43,10 +43,11 @@ footer {
         body {
         background-color: bisque; font-family: Bai Jamjuree;
         }
-        
-        #container {
-        } 
-        
+
         #container｛
         display: flex;
-       
+       .cartao{
+       margin: 1rem 1rem;
+       background-color: #b183fc;
+      flex-grow: 1;
+      flex-basis: calc(33% - 6rem);
